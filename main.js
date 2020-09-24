@@ -1,4 +1,4 @@
-const BASE_URL = 'http://tiny-lasagna-server.herokuapp.com/collections/cohort-covid';
+const BASE_URL = 'https://tiny-lasagna-server.herokuapp.com/collections/cohort-covid';
 
 const $container = document.querySelector('ul');
 
